@@ -1,0 +1,4 @@
+/* this is a simple driver used to read data everytime button triggered and control led on smart210 board */ 
+
+- in this example we know how to use interrupt , timer in device driver 
+- we also know ways tranfer data from linux kernel space to user space  
